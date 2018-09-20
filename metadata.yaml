@@ -1,0 +1,27 @@
+_repo: Anarchy-and-Anarchists-A-History-of-the-Red-Terror-and-the-Social-Revolution-in-America-and-E__52811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schaack, Michael J.
+    gutenberg_agent_id: '47053'
+    url: http://www.gutenberg.org/2009/agents/47053
+description: ''
+gutenberg_issued: '2016-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52811'
+  lccn: 09015670
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchism'
+- !lcsh 'Anarchists -- Illinois -- Chicago'
+- !lcc 'HX'
+- !lcsh 'Haymarket Square Riot, Chicago, Ill., 1886'
+- GITenberg
+title: "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution\
+  \ in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed;\
+  \ The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators"
+url: http://www.gutenberg.org/ebooks/52811
